@@ -9,4 +9,4 @@ using the PyTorch framework on the following graph datasets:
 * DD,
 * NCI1.
 
-Then we have compared the results of trained models with the Local Degree Profile. The results are located in the report file. There is also a piece of theory about what GINs and LDP methods are.
+Then we have compared the results of trained models with the Local Degree Profile method, which is a good and simple baseline. The results are located in the report file. There is also a piece of theory about what GINs and LDP methods are.
